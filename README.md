@@ -8,7 +8,7 @@
 # 2.goto pycharm then find the vcs tab 
 # 3.goto vcs 
 # 4.goto get from version control 
-# 5.paste he link
+# 5.paste the link
 # 6.press clone 
 
 
