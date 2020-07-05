@@ -7,8 +7,9 @@
 # 1.clone project copy the link            
 # 2.goto pycharm then find the vcs tab 
 # 3.goto vcs 
-# 4.goto get from version control paste
+# 4.goto get from version control 
+# 5.paste he link
+# 6.press clone 
 
 
 
-he line and then press clone then press create 
